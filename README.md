@@ -1,5 +1,6 @@
-### Hi there 👋
-## Wooow this is awesome 🤯
+# Arturo Perez 🤓 👨‍💻
+### - 🔭 I’m currently working on the integration of Django :snake: with React
+### - 🌱 I’m currently learning Docker :whale: & Redux
 
 <!--
 **PerezArturo/PerezArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
