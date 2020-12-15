@@ -2,6 +2,9 @@
 ### - 🔭 I’m currently working on the integration of Django :snake: with React
 ### - 🌱 I’m currently learning Docker :whale: & Redux
 
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+
 <!--
 **PerezArturo/PerezArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
