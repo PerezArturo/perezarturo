@@ -1,21 +1,13 @@
-# Arturo Perez 🤓 👨‍💻
-### - 🔭 I’m currently working on the integration of Django :snake: with React
-### - 🌱 I’m currently learning Docker :whale: & Redux
+# Hey, I'm Arturo 🤙
+### Web Developer 👨‍💻
+```javascript
+const arturo = {
+  age: 26,
+  location: "Tijuana Mx",
+  languages: ["es", "en"],
+  code: ["Javascript", "Python", "HTML", "CSS"],
+  tools: ["React", "Django", "Styled-Components", "Cypress", "DRF"],
+  learning: ["Next.js", "Docker", "Vue", "jp"]  
+}
+```
 
-<!--START_SECTION:update_image-->
-<!--END_SECTION:update_image-->
-
-<!--
-**PerezArturo/PerezArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
