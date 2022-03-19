@@ -5,9 +5,9 @@ const arturo = {
   age: 26,
   location: "Tijuana Mx",
   languages: ["es", "en"],
-  code: ["Javascript", "Python", "HTML", "CSS"],
-  tools: ["React", "Django", "Styled-Components", "Cypress", "DRF"],
-  learning: ["Next.js", "Docker", "Vue", "jp"]  
+  code: ["Javascript", "Python"],
+  tools: ["React", "Django", "Styled-Components", "Cypress", "DRF", "Docker"],
+  learning: ["Next.js", "Vue"]  
 }
 ```
 
