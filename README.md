@@ -6,7 +6,7 @@ const arturo = {
   location: "Tijuana Mx",
   languages: ["sp", "en"],
   code: ["Javascript", "Python"],
-  tools: ["React", "Django", "Styled-Components", "DRF", "Docker", "Next.js", "React Native"],
+  tools: ["React", "Django", "Styled-Components", "DRF", "Docker", "Next.js", "React Native", "Typescript", "Angular"],
   learning: ["OpenCV", "Tensorflow", "Solidity"]  
 }
 ```
